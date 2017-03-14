@@ -1,0 +1,12 @@
+:root {
+  --color-texto: #999;
+  --color-blanco: #fff;
+  --color-links: #f03f37;
+  --color-fondo: #111;
+  --tecnologias: {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background-size: cover;
+  };
+}

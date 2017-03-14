@@ -1,0 +1,83 @@
+{
+  "tastyHouseApp": [
+    {
+      "imagen": "tastyhouse-app-01"
+    },
+    {
+      "imagen": "tastyhouse-app-02"
+    },
+    {
+      "imagen": "tastyhouse-app-03"
+    },
+    {
+      "imagen": "tastyhouse-app-04"
+    }
+  ],
+  "banightonApp": [
+    {
+      "imagen": "bno-app-01"
+    },
+    {
+      "imagen": "bno-app-02"
+    },
+    {
+      "imagen": "bno-app-03"
+    }
+  ],
+  "tastyHouseWep": [
+    {
+      "imagen": "tastyhouse-web-01"
+    },
+    {
+      "imagen": "tastyhouse-web-02"
+    },
+    {
+      "imagen": "tastyhouse-web-03"
+    },
+    {
+      "imagen": "tastyhouse-web-04"
+    },
+    {
+      "imagen": "tastyhouse-web-05"
+    }
+  ],
+  "banightonWeb": [
+    {
+      "imagen": "bno-page-01"
+    },
+    {
+      "imagen": "bno-page-02"
+    },
+    {
+      "imagen": "bno-page-03"
+    },
+    {
+      "imagen": "bno-page-05"
+    }
+  ],
+  "eras": [
+    {
+      "imagen": "eras-page-01"
+    },
+    {
+      "imagen": "eras-page-02"
+    },
+    {
+      "imagen": "eras-page-03"
+    }
+  ],
+  "tecnosys": [
+    {
+      "imagen": "tec-page-01"
+    },
+    {
+      "imagen": "tec-page-02"
+    },
+    {
+      "imagen": "tec-page-03"
+    },
+    {
+      "imagen": "tec-page-05"
+    }
+  ]
+}

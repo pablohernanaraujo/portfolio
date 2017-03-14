@@ -1,0 +1,154 @@
+{
+  "tastyHouseApp": [
+    {
+      "tec": "android",
+      "url": "https://www.android.com/"
+    },
+    {
+      "tec": "reactNative",
+      "url": "https://facebook.github.io/react-native/"
+    },
+    {
+      "tec": "redux",
+      "url": "http://redux.js.org/docs/introduction/"
+    },
+    {
+      "tec": "firebase",
+      "url": "https://firebase.google.com"
+    },
+    {
+      "tec": "login-facebook",
+      "url": "https://www.facebook.com/"
+    },
+    {
+      "tec": "github",
+      "url": "https://github.com/"
+    }
+  ],
+  "banightonApp": [
+    {
+      "tec": "android",
+      "url": "https://www.android.com/"
+    },
+    {
+      "tec": "reactNative",
+      "url": "https://facebook.github.io/react-native/"
+    },
+    {
+      "tec": "redux",
+      "url": "http://redux.js.org/docs/introduction/"
+    },
+    {
+      "tec": "firebase",
+      "url": "https://firebase.google.com"
+    },
+    {
+      "tec": "login-facebook",
+      "url": "https://www.facebook.com/"
+    },
+    {
+      "tec": "github",
+      "url": "https://github.com/"
+    }
+  ],
+  "tastyHouseWeb": [
+    {
+      "tec": "grunt",
+      "url": "http://gruntjs.com/"
+    },
+    {
+      "tec": "materialize",
+      "url": "http://materializecss.com/about.html"
+    },
+    {
+      "tec": "stylus",
+      "url": "http://stylus-lang.com/"
+    },
+    {
+      "tec": "jquery",
+      "url": "https://jquery.com/"
+    },
+    {
+      "tec": "angular",
+      "url": "https://angularjs.org/"
+    },
+    {
+      "tec": "firebase",
+      "url": "https://firebase.google.com"
+    },
+    {
+      "tec": "github",
+      "url": "https://github.com/"
+    }
+  ],
+  "banightonWeb": [
+    {
+      "tec": "webpack",
+      "url": "https://webpack.github.io/"
+    },
+    {
+      "tec": "babel",
+      "url": "https://babeljs.io/"
+    },
+    {
+      "tec": "materialize",
+      "url": "http://materializecss.com/about.html"
+    },
+    {
+      "tec": "stylus",
+      "url": "http://stylus-lang.com/"
+    },
+    {
+      "tec": "jquery",
+      "url": "https://jquery.com/"
+    },
+    {
+      "tec": "react",
+      "url": "https://facebook.github.io/react/"
+    },
+    {
+      "tec": "firebase",
+      "url": "https://firebase.google.com"
+    },
+    {
+      "tec": "github",
+      "url": "https://github.com/"
+    }
+  ],
+  "eras": [
+    {
+      "tec": "html",
+      "url": "https://www.w3.org/TR/html/"
+    },
+    {
+      "tec": "css",
+      "url": "https://www.w3.org/TR/CSS/"
+    },
+    {
+      "tec": "javascript",
+      "url": "https://www.javascript.com/"
+    },
+    {
+      "tec": "wordpress",
+      "url": "https://es.wordpress.org/"
+    }
+  ],
+  "tecnosys": [
+    {
+      "tec": "html",
+      "url": "https://www.w3.org/TR/html/"
+    },
+    {
+      "tec": "css",
+      "url": "https://www.w3.org/TR/CSS/"
+    },
+    {
+      "tec": "javascript",
+      "url": "https://www.javascript.com/"
+    },
+    {
+      "tec": "jquery",
+      "url": "https://jquery.com/"
+    }
+  ]
+}

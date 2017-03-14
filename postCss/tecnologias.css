@@ -1,0 +1,94 @@
+.webpack {
+  @apply --tecnologias;
+  background-image: url('../images/webpack.png');
+}
+
+.babel {
+  @apply --tecnologias;
+  background-image: url('../images/babel.png');
+}
+
+.materialize {
+  @apply --tecnologias;
+  background-image: url('../images/materialize.png');
+}
+
+.jquery {
+  @apply --tecnologias;
+  background-image: url('../images/jquery.png');
+}
+
+.react {
+  @apply --tecnologias;
+  background-image: url('../images/react.png');
+}
+
+.github {
+  @apply --tecnologias;
+  background-image: url('../images/github.png');
+}
+
+.stylus {
+  @apply --tecnologias;
+  background-image: url('../images/stylus.png');
+}
+
+.firebase {
+  @apply --tecnologias;
+  background-image: url('../images/firebase.png');
+}
+
+.grunt {
+  @apply --tecnologias;
+  background-image: url('../images/grunt.png');
+}
+
+.angular {
+  @apply --tecnologias;
+  background-image: url('../images/angular.png');
+}
+
+.reactNative {
+  @apply --tecnologias;
+  background-image: url('../images/reactNative.png');
+}
+
+.android {
+  @apply --tecnologias;
+  background-image: url('../images/android.png');
+}
+
+.html {
+  @apply --tecnologias;
+  background-image: url('../images/html.png');
+}
+
+.css {
+  @apply --tecnologias;
+  background-image: url('../images/css.png');
+}
+
+.javascript {
+  @apply --tecnologias;
+  background-image: url('../images/javascript.png');
+}
+
+.wordpress {
+  @apply --tecnologias;
+  background-image: url('../images/wordpress.png');
+}
+
+.redux {
+  @apply --tecnologias;
+  background-image: url('../images/redux.png');
+}
+
+.google-map {
+  @apply --tecnologias;
+  background-image: url('../images/google-map.png');
+}
+
+.login-facebook {
+  @apply --tecnologias;
+  background-image: url('../images/login-facebook.png');
+}

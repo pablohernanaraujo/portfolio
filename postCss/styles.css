@@ -1,0 +1,106 @@
+@import './normalize.css';
+
+@import './queries.css';
+
+@import './variables.css';
+
+@import './grid.css';
+
+@import './tecnologias.css';
+
+body {
+  background-color: var(--color-fondo);
+  color: var(--color-texto);
+  -webkit-font-smoothing: antialiased;
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  margin-top: 30px;
+}
+
+.separador {
+  margin-bottom: 30px;
+}
+
+.nombre {
+  font-size: 60px;
+  font-style: italic;
+  letter-spacing: -2px;
+  font-family: 'Archivo Black', sans-serif;
+  color: color(var(--color-links) alpha(90%))
+}
+
+.datos {
+  margin-bottom: 30px;
+}
+
+.especialidad {
+  font-size: 25px;
+}
+
+a {
+  text-decoration: none;
+  color: color(var(--color-links) alpha(90%))
+}
+
+.portfolio-titulo {
+  font-size: 40px;
+  font-style: italic;
+  letter-spacing: -2px;
+  font-family: 'Archivo Black', sans-serif;
+  color: color(var(--color-links) alpha(90%))
+}
+
+.trabajo-contenedor {
+  margin-top: 30px;
+}
+
+.encabezado-tipo {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: color(var(--color-blanco) alpha(80%));
+}
+
+.encabezado-titulo {
+  font-size: 34px;
+  margin-bottom: 15px;
+  color: var(--color-blanco);
+}
+
+.encabezado-texto {
+  margin-bottom: 5px;
+}
+
+.encabezado-tecnologias {
+  margin: 20px 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.galeria-contenedor {
+  margin-bottom: 30px;
+}
+
+.imagen {
+  width: 100%;
+  float: left;
+}
+
+@media (--only-800) {
+  .contenedor {
+		padding-left: 100px;
+	  padding-right: 100px;
+  }	
+}
+
+@media (--only-1200) {
+  .contenedor {
+		padding-left: 300px;
+		padding-right: 300px;
+  }
+
+  .imagen {
+    width: 50%;
+  }
+}
