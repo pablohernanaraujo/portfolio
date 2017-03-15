@@ -92,3 +92,13 @@
   @apply --tecnologias;
   background-image: url('../images/login-facebook.png');
 }
+
+.gulp {
+  @apply --tecnologias;
+  background-image: url('../images/gulp.png');
+}
+
+.postcss {
+  @apply --tecnologias;
+  background-image: url('../images/postcss.png');
+}

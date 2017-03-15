@@ -1,5 +1,6 @@
 import React from 'react'
 import { WindowResizeListener } from 'react-window-resize-listener'
+import _ from 'lodash'
 
 import Trabajo from './Trabajo'
 import imagenes from '../imagenes'
@@ -46,6 +47,19 @@ class App extends React.Component {
             </div>
           </header>
           <div className='portfolio-titulo'>Portfolio</div>
+          <div className='portfolio-by'>Tecnologías usadas</div>
+          <div className='porfolio-logos-contenedor'>
+            {_.map(this.state.tecnologias.portfolio, (tec, index) => {
+              return (
+                <a 
+                  key={index} 
+                  className={tec.tec}
+                  href={tec.url} 
+                  target='_blank'
+                ></a>
+              )
+            })}
+          </div>
           <Trabajo
             tipo='Freelance'
             titulo='Tasty House App'

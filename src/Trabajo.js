@@ -1,12 +1,12 @@
 import React from 'react'
 
-import TrabajoEncabezado from './TrabajoEncabezado'
+import Encabezado from './Encabezado'
 import Galeria from './Galeria'
 
 const Trabajo = ({tipo, titulo, subtitulo, links, tecnologias, imagenes}) => {
   return (
     <div className="trabajo-contenedor">
-        <TrabajoEncabezado 
+        <Encabezado 
           tipo={tipo}
           titulo={titulo}
           subtitulo={subtitulo}

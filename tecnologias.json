@@ -1,4 +1,30 @@
 {
+  "portfolio": [
+    {
+      "tec": "webpack",
+      "url": "https://webpack.github.io/"
+    },
+    {
+      "tec": "babel",
+      "url": "https://babeljs.io/"
+    },
+    {
+      "tec": "react",
+      "url": "https://facebook.github.io/react/"
+    },
+    {
+      "tec": "gulp",
+      "url": "http://gulpjs.com/"
+    },
+    {
+      "tec": "postcss",
+      "url": "http://postcss.org/"
+    },
+    {
+      "tec": "github",
+      "url": "https://github.com/"
+    }
+  ],
   "tastyHouseApp": [
     {
       "tec": "android",

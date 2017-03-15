@@ -4,8 +4,8 @@
   --color-links: #f03f37;
   --color-fondo: #111;
   --tecnologias: {
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     display: inline-block;
     background-size: cover;
   };
