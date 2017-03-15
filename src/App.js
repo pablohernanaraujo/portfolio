@@ -73,8 +73,8 @@ class App extends React.Component {
               texto: 'Página web',
               url: 'https://pablohernanaraujo.github.io/recetas/#/inicio'
             }}
-            tecnologias={this.state.tecnologias.tastyHouseWep}
-            imagenes={this.state.imagenes.tastyHouseWep}
+            tecnologias={this.state.tecnologias.tastyHouseWeb}
+            imagenes={this.state.imagenes.tastyHouseWeb}
           />
           <Trabajo
             tipo='Freelance'
